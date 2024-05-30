@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="weight_loos_training">Weight Loos\nTraining</string>
+    <string name="classes">Classes</string>
+    <string name="full_body_workout">Full Body workout</string>
+    <string name="thre_six_zero_kcal">360Kcal</string>
+    <string name="cardio_training">Cardio\nTraining</string>
+    <string name="fifty_min">50 Min</string>
+    <string name="four_five_zero_kcal">450Kcal</string>
+    <string name="belly_fat_loose_training">Belly Fat Loose\nTraining</string>
+    <string name="one_five_zero_kcal">150Kcal</string>
+    <string name="teen_min">10 Min</string>
+    <string name="description">Description</string>
+    <string name="four_point_five">4.5</string>
+</resources>

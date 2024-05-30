@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">GymDF</string>
+    <string name="stay_healthy_with_training">Stay healthy\nwith Training</string>
+    <string name="search_icon">search_icon</string>
+    <string name="physical_training">Physical Training</string>
+    <string name="categories">Categories</string>
+    <string name="top_trainings">Top trainings (Only premium plan)</string>
+    <string name="functional_training">Functional\nTraining</string>
+    <string name="thirty_min">30 Min</string>
+    <string name="recommended_class">Recommended Class</string>
+    <string name="see_all">See all</string>
+    <string name="strength_training">Strength \nTraining</string>
+    <string name="title_all_classes">Module Title</string>
+    <string name="title_premium_classes">Module Title</string>
+    <string name="custom_trainings">Custom\ntrainings</string>
+    <string name="try_it_1_month_free">Try it 1 month free</string>
+    <string name="pending">Pending...</string>
+    <string name="downloading">Downloading...</string>
+    <string name="installing">Installing...</string>
+    <string name="completed">Completed...</string>
+    <string name="please_wait_don_t_close_app">Please wait</string>
+    <string name="foreground_background">Foreground / Background</string>
+    <string name="choose_module_download_type">Choose module download type</string>
+</resources>
