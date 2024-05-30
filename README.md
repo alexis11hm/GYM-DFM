@@ -19,7 +19,7 @@ The home activity is part of the main module or also known as “app module”.
 
 Note: Not everything is functional.
 
-![app](https://everisgroup-my.sharepoint.com/personal/ahermond_emeal_nttdata_com/_layouts/15/onedrive.aspx?login_hint=ahermond%40emeal%2Enttdata%2Ecom&id=%2Fpersonal%2Fahermond%5Femeal%5Fnttdata%5Fcom%2FDocuments%2Fgym%5Fdfm%2Fapp%2Epng&parent=%2Fpersonal%2Fahermond%5Femeal%5Fnttdata%5Fcom%2FDocuments%2Fgym%5Fdfm)
+![app](https://github.com/alexis11hm/GYM-DFM/blob/main/resources/app.png)
 
 ## All Classes
 
@@ -31,7 +31,7 @@ The Classes activity is part of the all_classes dynamic feature module.This scr
 
 Note: It is not functional.
 
-![all classes](https://everisgroup-my.sharepoint.com/personal/ahermond_emeal_nttdata_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fahermond%5Femeal%5Fnttdata%5Fcom%2FDocuments%2Fgym%5Fdfm%2Fall%5Fclasses%2Epng&parent=%2Fpersonal%2Fahermond%5Femeal%5Fnttdata%5Fcom%2FDocuments%2Fgym%5Fdfm)
+![all classes](https://github.com/alexis11hm/GYM-DFM/blob/main/resources/all_classes.png)
 
 ## Premium Classes
 
@@ -44,7 +44,7 @@ The Premium activity is part of the premium_classes dynamic feature module. This
 Note: Not everything is functional.
 
 
-![premium classes](https://everisgroup-my.sharepoint.com/personal/ahermond_emeal_nttdata_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fahermond%5Femeal%5Fnttdata%5Fcom%2FDocuments%2Fgym%5Fdfm%2Fpremium%5Fclasses%2Epng&parent=%2Fpersonal%2Fahermond%5Femeal%5Fnttdata%5Fcom%2FDocuments%2Fgym%5Fdfm)
+![premium classes](https://github.com/alexis11hm/GYM-DFM/blob/main/resources/premium_classes.png)
 
 # Technologies
 
@@ -61,7 +61,7 @@ You need to have a Google Play Console account and be part of testers team to se
 
 Link: https://play.google.com/apps/test/com.nttdatamxdx.gymdfm/5
 
-![demo](https://everisgroup-my.sharepoint.com/personal/ahermond_emeal_nttdata_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fahermond%5Femeal%5Fnttdata%5Fcom%2FDocuments%2Fgym%5Fdfm%2Fpremium%5Fclasses%2Epng&parent=%2Fpersonal%2Fahermond%5Femeal%5Fnttdata%5Fcom%2FDocuments%2Fgym%5Fdfm)
+![demo](https://github.com/alexis11hm/GYM-DFM/blob/main/resources/demo.mp4)
 
 # Resources
 
