@@ -61,7 +61,7 @@ You need to have a Google Play Console account and be part of testers team to se
 
 Link: https://play.google.com/apps/test/com.nttdatamxdx.gymdfm/5
 
-![demo](https://github.com/alexis11hm/GYM-DFM/blob/main/resources/demo.mp4)
+![demo](https://github.com/alexis11hm/GYM-DFM/blob/main/resources/demo.gif)
 
 # Resources
 
